@@ -1,2 +1,2 @@
 # samsung-riscv
-First repository of RISC-V Talent Development Program.
+RISC-V Mini Internship proram
