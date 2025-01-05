@@ -1,2 +1,2 @@
 # samsung-riscv
-RISC-V Mini Internship proram
+RISC-V Mini Internship program
