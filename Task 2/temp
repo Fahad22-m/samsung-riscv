@@ -1,1 +1,2 @@
-Readme
+Task 2 is to write a c program and compile the same with RISC-V GCC/SPIKE.
+To generate and collect th RISC-V object drump for both O1 and Ofast.
